@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Bachelor of Computer Science, data scientist, full stack developer. :heart: Focus on exact sciences, Machine Learning / Deep Learning, Robotic Process Automation (RPA). Specialist in languages (PHP, Python and R).
+
+Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. :heart: :heart: Passionate about technology and the desire to unite this technology to help humanity
+
 <!--
 **JoseMateusCamargo/JoseMateusCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
