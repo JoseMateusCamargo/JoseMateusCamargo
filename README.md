@@ -7,12 +7,11 @@ Bachelor of Computer Science, data scientist, full stack developer.
 Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
 <br/>:heart: Passionate about technology and the desire to unite this technology to help humanity. :computer: <=> :dna:
 
-<h3>Programming Languages🚀</h3>
-
-<p align="left">
-<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="55" alt="PHP">
-<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="55" alt="Python">
-<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="55" alt="R">
+<h3 align="center">Specialist in languages :rocket:</h3>
+<p align="center">
+<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="55" alt="PHP">&nbsp
+<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="55" alt="Python">&nbsp
+<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="55" alt="R">&nbsp
 </p>
 
 <h4>Working with:</h4>
