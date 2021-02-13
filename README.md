@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Bachelor of Computer Science, data scientist, full stack developer. :heart: Focus on exact sciences, Machine Learning / Deep Learning, Robotic Process Automation (RPA). Specialist in languages (PHP, Python and R).
+Bachelor of Computer Science, data scientist, full stack developer. 
+<br/>Focus on exact sciences, Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
+<br/>Specialist in languages (PHP, Python and R).
 
-Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. :heart: :heart: Passionate about technology and the desire to unite this technology to help humanity
-
+Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
+<br/>:heart: Passionate about technology and the desire to unite this technology to help humanity. :computer: <=> :dna:
 
 <h3>Programming Languages🚀</h3>
 
