@@ -10,9 +10,20 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 <h3>Programming Languages🚀</h3>
 
 <p align="left">
-<img src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" width="55" alt="Python">
-<img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-2.png" width="100" alt="PHP">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="71" alt="R">
+<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="55" alt="PHP">
+<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="55" alt="Python">
+<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="55" alt="R">
+</p>
+
+<h4>Working with:</h4>
+<p align="left">
+<img src="https://i.ibb.co/x6JPDvR/javascript-logo.png" height="35" alt="JS">&nbsp
+<img src="https://i.ibb.co/8KKFmZv/vue-logo.png" height="35" alt="VUE">&nbsp
+<img src="https://i.ibb.co/dPXjz20/jquery-logo.gif" height="35" alt="JQUERY">&nbsp
+<img src="https://i.ibb.co/xJd0FFC/html5-logo.png" height="35" alt="HTML">&nbsp
+<img src="https://i.ibb.co/Y7QCDJv/css3-logo.png" height="35" alt="CSS">&nbsp
+<img src="https://i.ibb.co/TM815fs/bootstrap-logo.png" height="35" alt="BOOTSTRAP">&nbsp
+</p>
 
 
 <!--
