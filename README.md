@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/jmateuscamargo/">
   <img align="left" alt="Mateus Camargo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br/>
 
 <br/>Bachelor of Computer Science, data scientist / full stack developer. 
 <br/>Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
@@ -19,12 +20,12 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 
 <h4>Working with:</h4>
 <p align="left">
-<img src="https://i.ibb.co/x6JPDvR/javascript-logo.png" height="35" alt="JS">&nbsp
-<img src="https://i.ibb.co/8KKFmZv/vue-logo.png" height="35" alt="VUE">&nbsp
-<img src="https://i.ibb.co/dPXjz20/jquery-logo.gif" height="35" alt="JQUERY">&nbsp
-<img src="https://i.ibb.co/xJd0FFC/html5-logo.png" height="35" alt="HTML">&nbsp
-<img src="https://i.ibb.co/Y7QCDJv/css3-logo.png" height="35" alt="CSS">&nbsp
-<img src="https://i.ibb.co/TM815fs/bootstrap-logo.png" height="35" alt="BOOTSTRAP">&nbsp
+<code><img height="35" src="https://i.ibb.co/x6JPDvR/javascript-logo.png" alt="JS"></code>&nbsp
+<code><img height="35" src="https://i.ibb.co/8KKFmZv/vue-logo.png" alt="VUE"></code>&nbsp
+<code><img height="35" src="https://i.ibb.co/dPXjz20/jquery-logo.gif" alt="JQUERY"></code>&nbsp
+<code><img height="35" src="https://i.ibb.co/xJd0FFC/html5-logo.png" alt="HTML"></code>&nbsp
+<code><img height="35" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS"></code>&nbsp
+<code><img height="35" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
 </p>
 
 
