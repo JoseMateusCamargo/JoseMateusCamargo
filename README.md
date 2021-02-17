@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
 <a href="https://www.linkedin.com/in/jmateuscamargo/">
-  <img align="left" alt="Mateus Camargo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mateus Camargo LinkedIn" width="22px" src="https://i.ibb.co/s193rpF/linkedin-logo.png" />
 </a>
 <br/>
 
