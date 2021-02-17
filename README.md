@@ -6,7 +6,6 @@
 
 <br/>Bachelor of Computer Science, data scientist / full stack developer. 
 <br/>Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
-<br/>Specialist in languages (PHP, Python and R).
 
 Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
 <br/>:heart: Passionate about technology and the desire to unite this technology to help humanity. :computer: <=> :dna:
