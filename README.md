@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
+<a href="https://www.linkedin.com/in/jmateuscamargo/">
+  <img align="left" alt="Mateus Camargo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 Bachelor of Computer Science, data scientist / full stack developer. 
 <br/>Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
