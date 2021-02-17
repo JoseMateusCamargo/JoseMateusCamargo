@@ -18,7 +18,7 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 <img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="55" alt="R">&nbsp
 </p>
 
-<h4>Working with:</h4>
+**Languages and Tools:** 
 <p align="left">
 <code><img height="35" src="https://i.ibb.co/x6JPDvR/javascript-logo.png" alt="JS"></code>&nbsp
 <code><img height="35" src="https://i.ibb.co/8KKFmZv/vue-logo.png" alt="VUE"></code>&nbsp
