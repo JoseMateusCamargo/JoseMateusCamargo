@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Bachelor of Computer Science, data scientist, full stack developer. 
+Bachelor of Computer Science, data scientist / full stack developer. 
 <br/>Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
 <br/>Specialist in languages (PHP, Python and R).
 
