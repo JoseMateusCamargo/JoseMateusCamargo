@@ -28,6 +28,10 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 <code><img height="35" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
 </p>
 
+<a href="https://github.com/JoseMateusCamargo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo&theme=light&hide_langs_below=1" />
+</a>
+
 <!--
 ![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=JoseMateusCamargo&show_icons=true&hide_border=true)
 -->
