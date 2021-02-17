@@ -28,6 +28,10 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 <code><img height="35" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
 </p>
 
+<!--
+![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=JoseMateusCamargo&show_icons=true&hide_border=true)
+-->
+
 
 <!--
 **JoseMateusCamargo/JoseMateusCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
