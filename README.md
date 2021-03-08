@@ -28,7 +28,7 @@ Driven by exact science, mathematics, statistics; seeking challenges, knowledge,
 </p>
 
 <a href="https://github.com/JoseMateusCamargo">
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo" />
 </a>
 
 <!--
