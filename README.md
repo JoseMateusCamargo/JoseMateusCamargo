@@ -6,9 +6,7 @@
 
 #### About me:
 Bachelor of Computer Science, data scientist / full stack developer. 
-
-Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA), driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
-<br/>:heart: Passionate about technology and the desire to unite this technology to help humanity. :computer: <=> :dna:
+Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
 - 🔭 I’m currently working as Full Stack Developer / Data Scientist.
 - 👩‍💻 I’m currently developing an application for Logistics.
