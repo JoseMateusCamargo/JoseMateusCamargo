@@ -4,15 +4,17 @@
 </a>
 <br/>
 
-<br/>Bachelor of Computer Science, data scientist / full stack developer. 
-<br/>Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA). 
+#### About me:
+Bachelor of Computer Science, data scientist / full stack developer. 
 
-Driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
+Focus on exact sciences, :heart_eyes: Machine Learning / Deep Learning, Robotic Process Automation (RPA), driven by exact science, mathematics, statistics; seeking challenges, knowledge, development and victory. 
 <br/>:heart: Passionate about technology and the desire to unite this technology to help humanity. :computer: <=> :dna:
 
 - 🔭 I’m currently working as Full Stack Developer / Data Scientist.
 - 👩‍💻 I’m currently developing an application for Logistics.
 - 🧮 I’m also applying machine learning models and deep learning.
+
+<hr>
 
 <h3 align="center">Specialist in languages :rocket:</h3>
 <p align="center">
