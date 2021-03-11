@@ -8,14 +8,8 @@
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg">
 </a>
 
-<br />
-<br />
 
 <br />
-<br />
-<br />
-
-
 Bachelor of Computer Science, data scientist / full stack developer. 
 Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
