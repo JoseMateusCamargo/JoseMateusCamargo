@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as Full Stack Developer / Data Scientist.
 - 👩‍💻 I’m currently developing an application for Logistics.
-- 🧮 I’m also applying Machine Learning models and Deep Kearning, <b>in particular:</b>
+- 🧮 I’m also applying Machine Learning models and Deep Learning, <b>in particular:</b>
     - 😊 Development of NLP Model.
     - 🤨 Sentiment analysis.
 
