@@ -1,16 +1,13 @@
 ### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
 
-<p align="left">
 <a href="https://www.linkedin.com/in/jmateuscamargo/">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>
 </a>
-
 <a href="https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg"/>
 </a>
-</p>
 
-Bachelor of Computer Science, data scientist / full stack developer. 
+<br/>Bachelor of Computer Science, data scientist / full stack developer. 
 Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
 - 🔭 I’m currently working as Full Stack Developer / Data Scientist.
