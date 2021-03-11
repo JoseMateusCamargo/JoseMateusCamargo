@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
 
-### Connect with me:
+<a href="https://www.linkedin.com/in/jmateuscamargo/">
+ <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>
+</a>
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cabreirajm/)
-
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg" />](https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges)
-
-
-<a href="https://www.linkedin.com/in/jmateuscamargo/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/></a>
-<a href="https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg"/></a>
+<a href="https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges">
+ <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg"/>
+</a>
 
 #
 
