@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
-<a href="https://www.linkedin.com/in/jmateuscamargo/">
-  <img align="left" alt="Mateus Camargo LinkedIn" height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" />
-</a>
-<br/>
 
-#### About me:
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"/>](https://www.linkedin.com/in/jmateuscamargo/)
+[<img align="left" width="26px" src="hthttps://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg"/>](https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges)
+
 Bachelor of Computer Science, data scientist / full stack developer. 
 Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
@@ -12,13 +10,11 @@ Focus on exact sciences, mathematics, statistics,  machine learning / deep learn
 - 👩‍💻 I’m currently developing an application for Logistics.
 - 🧮 I’m also applying machine learning models and deep learning.
 
-<hr>
-
-<h3 align="center">Specialist in languages :rocket:</h3>
+<h4 align="center">Specialist in languages :rocket:</h4>
 <p align="center">
-<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="55" alt="PHP">&nbsp
-<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="55" alt="Python">&nbsp
-<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="55" alt="R">&nbsp
+<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="45" alt="PHP">&nbsp
+<img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="45" alt="Python">&nbsp
+<img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="45" alt="R">&nbsp
 </p>
 
 **Data Libraries and Tools:** 
