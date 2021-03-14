@@ -32,6 +32,7 @@
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/keras.svg" alt="keras"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pytorch.svg" alt="pytorch"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver"></code>&nbsp
 </p>
 
 **Dev Languages and Tools:** 
@@ -43,6 +44,8 @@
 <code><img height="26" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
 </p>
+
+**Data Libraries and Tools:** 
 
 <a href="https://github.com/JoseMateusCamargo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo" />
