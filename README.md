@@ -45,8 +45,6 @@
 <code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
 </p>
 
-**Data Libraries and Tools:** 
-
 <a href="https://github.com/JoseMateusCamargo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo" />
 </a>
