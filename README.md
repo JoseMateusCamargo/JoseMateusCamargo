@@ -26,23 +26,23 @@
 
 **Data Libraries and Tools:** 
 <p align="left">
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pandas.svg" alt="pandas"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/numpy.svg" alt="numpy"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/tensorflow.svg" alt="tensorflow"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/keras.svg" alt="keras"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pytorch.svg" alt="pytorch"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql"></code>&nbsp
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pandas.svg" alt="pandas" title="Pandas"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/numpy.svg" alt="numpy" title="Numpy"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/tensorflow.svg" alt="tensorflow" title="TensorFlow"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/keras.svg" alt="keras" title="Keras"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pytorch.svg" alt="pytorch" title="PyTorch"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql" title="MySQL"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" title="SQL Server"></code>&nbsp
 </p>
 
-**Dev Languages and Tools:** 
+**Dev and Tools:** 
 <p align="left">
-<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" alt="Javascript"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/8KKFmZv/vue-logo.png" alt="VUE"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/dPXjz20/jquery-logo.gif" alt="JQUERY"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/xJd0FFC/html5-logo.png" alt="HTML"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" alt="Javascript" title="Javascript"></code>&nbsp
+<code><img height="26" src="https://i.ibb.co/8KKFmZv/vue-logo.png" alt="VUE" title="Vue"></code>&nbsp
+<code><img height="26" src="https://i.ibb.co/dPXjz20/jquery-logo.gif" alt="JQUERY" title="JQuery"></code>&nbsp
+<code><img height="26" src="https://i.ibb.co/xJd0FFC/html5-logo.png" alt="HTML" title="HTML"></code>&nbsp
+<code><img height="26" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS" title="CSS"></code>&nbsp
+<code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP" title="Bootstrap"></code>&nbsp
 </p>
 
 <a href="https://github.com/JoseMateusCamargo">
