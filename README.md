@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/blackhat3" target="_blank" alt="GeeksforGeeks" title="GeeksforGeeks">
- <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/geeksforgeeks.svg">
+ <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/geeksforgeeks.svg">
 </a><br/>
 
 <br/>Bachelor of Computer Science, data scientist / full stack developer. 
