@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm [Mateus!](https://github.com/JoseMateusCamargo) 
 
-<a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank">
+<a href="https://www.linkedin.com/in/jmateuscamargo/" target="_blank" alt="Linkedin">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg">
 </a>
 
-<a href="https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges" target="_blank">
+<a href="https://www.youracclaim.com/users/jose-mateus-camargo-de-leva/badges" target="_blank" alt="CClain">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/acclaim.svg">
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/blackhat3" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/blackhat3" target="_blank" alt="GeeksforGeeks">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/geeksforgeeks.svg">
 </a><br/>
 
