@@ -52,8 +52,8 @@
 <a href="https://github.com/JoseMateusCamargo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo" />
 </a>
-
-
+<br/>
+<br/>
 
 **Some repositores snippets** 
 * [JavaScript and JQuery tips and examples](https://github.com/JoseMateusCamargo/javascript) 
