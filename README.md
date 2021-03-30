@@ -53,6 +53,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateusCamargo" />
 </a>
 
+
+
+**Some repositores snippets** 
+* [JavaScript and JQuery tips and examples](https://github.com/JoseMateusCamargo/javascript) 
+* [CSS3 Effects](https://github.com/JoseMateusCamargo/css-effects)
+
+
 <!--
 ![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=JoseMateusCamargo&show_icons=true&hide_border=true)
 -->
