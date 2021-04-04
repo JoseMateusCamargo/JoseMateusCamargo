@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/blackhat1" target="_blank" alt="HackerRank" title="HackerRank">
- <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg">
+ <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg">
 </a><br/>
 
 <br/>Bachelor of Computer Science, data scientist / full stack developer. 
