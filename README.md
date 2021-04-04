@@ -56,8 +56,8 @@
 <br/>
 
 **Some repositores snippets** 
-* [JavaScript and JQuery tips and examples](https://github.com/JoseMateusCamargo/javascript) 
-* [CSS3 Effects](https://github.com/JoseMateusCamargo/css-effects)
+* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript "Tips and Examples") 
+* [CSS3](https://github.com/JoseMateusCamargo/css-effects "Effects and Examples") 
 
 
 <!--
