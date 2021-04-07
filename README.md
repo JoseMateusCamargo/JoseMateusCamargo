@@ -24,7 +24,7 @@
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <b>especially:</b>
     - 😊 Development of NLP Model.
     - 🤨 Sentiment analysis.
-
+- 🌱 I’m currently learning Quantum Computation ... 	:man_technologist:
 
 <h4 align="center">Specialist in languages :rocket:</h4>
 <p align="center">
