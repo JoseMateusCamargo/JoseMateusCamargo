@@ -25,6 +25,8 @@
     - 😊 Development of NLP Model.
     - 🤨 Sentiment analysis.
 
+- 🌱 I’m currently learning Quantum Computation.
+
 <h4 align="center">Specialist in languages :rocket:</h4>
 <p align="center">
 <img src="https://i.ibb.co/X75fk3k/php-logo.png" height="45" alt="PHP">&nbsp
