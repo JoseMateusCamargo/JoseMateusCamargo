@@ -61,7 +61,7 @@
 <br/>
 
 **Some repositores snippets** 
-* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript "Tips and Examples") 
+* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") 
 * [CSS3](https://github.com/JoseMateusCamargo/css-effects "Effects and Examples") 
 
 
