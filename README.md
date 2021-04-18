@@ -61,8 +61,10 @@
 <br/>
 
 **Some repositores snippets** 
-* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") 
-* [CSS3](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples") 
+|                |Description     |Source                                                                                                |
+|-----------|---------------------|------------------------------------------------------------------------------------------------------|
+|:astronaut:|`Tips and Examples!` |* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") |
+|:artist:   |`Tips and Examples!` |* [CSS3](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples")              |
 
 
 <!--
