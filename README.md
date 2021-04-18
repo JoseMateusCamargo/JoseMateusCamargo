@@ -61,7 +61,7 @@
 <br/>
 
 **Some repositores snippets** 
-|                |Description                     |Source                                                                                                |
+|                       Description               |Source                                                                                                |
 |-----------|-------------------------------------|------------------------------------------------------------------------------------------------------|
 |:ok_man:   |`Useful JavaScript Tips and Tricks!` |* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") |
 |:art:      |`CSS Animations tips and tricks!   ` |* [CSS3](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples")              |
