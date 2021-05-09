@@ -54,11 +54,12 @@
 <code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP" title="Bootstrap"></code>&nbsp
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" /></p>
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemateuscamargo&show_icons=true&locale=en" alt="josemateuscamargo" /></p>
 
-<br/>
-<br/>
+<p></p>
+<p></p>
 
 **Some repositores snippets** 
 |           |Description                          |Source                                                                                                |
