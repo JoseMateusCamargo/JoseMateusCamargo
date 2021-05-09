@@ -40,7 +40,9 @@
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/tensorflow.svg" alt="tensorflow" title="TensorFlow"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/keras.svg" alt="keras" title="Keras"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pytorch.svg" alt="pytorch" title="PyTorch"></code>&nbsp
+<code><img height="26" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="openvc" title="OpenVC"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql" title="MySQL"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mariadb.svg" alt="mariadb" title="MariaDB"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" title="SQL Server"></code>&nbsp
 </p>
 
@@ -52,6 +54,7 @@
 <code><img height="26" src="https://i.ibb.co/xJd0FFC/html5-logo.png" alt="HTML" title="HTML"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS" title="CSS"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP" title="Bootstrap"></code>&nbsp
+<code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" title="D3js"></code>&nbsp
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" /></p>
