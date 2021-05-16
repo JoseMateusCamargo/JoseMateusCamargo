@@ -65,6 +65,7 @@
 **Some repositores snippets** 
 |           |Description                          |Source                                                                                                |
 |-----------|-------------------------------------|------------------------------------------------------------------------------------------------------|
+|:ok_man:   |`PHP Snippets!`                      |* [PHP](https://github.com/JoseMateusCamargo/php#readme "Snippets") |
 |:ok_man:   |`Useful JavaScript tips and tricks!` |* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") |
 |:art:      |`CSS Animations tips and tricks!   ` |* [CSS3](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples")              |
 
