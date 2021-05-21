@@ -57,11 +57,12 @@
 <code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" title="D3js"></code>&nbsp
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" /></p>
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" />
+</p>
 
-<p></p>
-<p></p>
-
+<br/><br/><br/><br/><br/><br/><br/>
+ 
 **Some repositores snippets** 
 |           |Description                          |Source                                                                                                |
 |-----------|-------------------------------------|------------------------------------------------------------------------------------------------------|
