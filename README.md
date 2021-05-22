@@ -54,8 +54,9 @@
 <code><img height="26" src="https://i.ibb.co/dPXjz20/jquery-logo.gif" alt="JQUERY" title="JQuery"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/xJd0FFC/html5-logo.png" alt="HTML" title="HTML"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/Y7QCDJv/css3-logo.png" alt="CSS" title="CSS"></code>&nbsp
-<code><img height="26" src="https://i.ibb.co/TM815fs/bootstrap-logo.png" alt="BOOTSTRAP" title="Bootstrap"></code>&nbsp
+<code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap"></code>&nbsp
 <code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" title="D3js"></code>&nbsp
+<code><img height="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium"></code>&nbsp
 </p>
 
 <p align="center">
@@ -64,12 +65,16 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
  
-**Some repositores snippets** 
-|           |Description                          |Source                                                                                                |
-|-----------|-------------------------------------|------------------------------------------------------------------------------------------------------|
-|:ok_man:   |`PHP Snippets!`                      |* [PHP](https://github.com/JoseMateusCamargo/php#readme "Snippets") |
-|:ok_man:   |`Useful JavaScript tips and tricks!` |* [JavaScript and JQuery](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples") |
-|:art:      |`CSS Animations tips and tricks!   ` |* [CSS3](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples")              |
+> Some repositores snippets
+
+|                |link                           |
+|----------------|-------------------------------|
+|🅿🅷🅿         |[`PHP Snippets/ Scripts`](https://github.com/JoseMateusCamargo/php#readme "Snippets")            |
+|🅿🆈🆃🅷🅾🅽    |[`Python Snippets`](https://github.com/JoseMateusCamargo/php#readme "Snippets")            |
+|🅹🆂            |[`Useful JavaScript tips and tricks`](https://github.com/JoseMateusCamargo/javascript#readme "Tips and Examples")            |
+|🅲🆂🆂          |[`CSS Animations tips and tricks`](https://github.com/JoseMateusCamargo/css-effects#readme "Effects and Examples")`|
+
+
 
 
 <!--
