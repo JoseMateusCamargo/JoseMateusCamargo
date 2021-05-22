@@ -67,7 +67,7 @@
  
 > Some repositores snippets
 
-|                |link                           |
+|                |                               |
 |----------------|-------------------------------|
 |🅿🅷🅿         |[`PHP Snippets/ Scripts`](https://github.com/JoseMateusCamargo/php#readme "Snippets")            |
 |🅿🆈🆃🅷🅾🅽    |[`Python Snippets`](https://github.com/JoseMateusCamargo/php#readme "Snippets")            |
