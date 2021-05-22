@@ -19,12 +19,11 @@
 <br/>Bachelor of Computer Science, data scientist / full stack developer. 
 <br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
-- 🔭 I’m currently working as Full Stack Developer / Data Scientist.
-- 👩‍💻 I’m currently developing an application for Logistics.
-- 🧮 I’m also applying Machine Learning models and Deep Learning, <b>especially:</b>
-    - 😊 Development of NLP Model.
-    - 🤨 Sentiment analysis.
-- 🌱 I’m currently learning Quantum Computation.
+- 👩‍💻 I’m currently working as Full Stack Developer / Data Scientist, developing an application for Logistics.
+- 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
+    - Development of NLP Model.
+    - Sentiment analysis.
+- 🌱 I’m currently learning **Quantum Computation**.
 
 <h4 align="center">Specialist in languages :rocket:</h4>
 <p align="center">
