@@ -70,7 +70,7 @@
 |                |                               |
 |----------------|-------------------------------|
 |🅿🅷🅿         |[`PHP Snippets/ Scripts`](https://github.com/JoseMateusCamargo/php#readme "Snippets")|
-|🅿🆈🆃🅷🅾🅽    |[`Python Snippets`]https://github.com/JoseMateusCamargo/python#readme "Snippets")|
+|🅿🆈🆃🅷🅾🅽    |[`Python Snippets`](https://github.com/JoseMateusCamargo/python#readme "Snippets")|
 |🅹🆂            |[`Useful JavaScript tips and tricks`](https://github.com/JoseMateusCamargo/javascript#readme "Snippets")|
 |🅲🆂🆂          |[`CSS Animations tips and tricks`](https://github.com/JoseMateusCamargo/css-effects#readme "Snippets")|
 
