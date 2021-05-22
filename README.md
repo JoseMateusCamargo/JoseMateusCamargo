@@ -44,7 +44,8 @@
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql" title="MySQL"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mariadb.svg" alt="mariadb" title="MariaDB"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" title="SQL Server"></code>&nbsp
-</p>
+<code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB"></code>&nbsp
+<code><img height="26" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop"></code>&nbsp
 
 **Dev and Tools:** 
 <p align="left">
