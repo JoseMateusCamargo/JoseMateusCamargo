@@ -59,7 +59,10 @@
 </p>
 
 <p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact" alt="josemateuscamargo" />
+ <a href="https://github.com/JoseMateusCamargo">
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"      alt="josemateuscamargo" />  
+  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue" />  
+ </a>
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
@@ -74,6 +77,7 @@
 |🅲🆂🆂          |[`CSS Animations tips and tricks`](https://github.com/JoseMateusCamargo/css-effects#readme "Snippets")|
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue)
 
 
 <!--
