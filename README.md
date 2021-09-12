@@ -76,6 +76,7 @@ Bachelor of Computer Science, data scientist / full stack developer.
 </p>
 </br></br></br></br></br></br></br></br>
 
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue) -->
 
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
