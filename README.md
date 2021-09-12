@@ -71,11 +71,11 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"       alt="josemateuscamargo"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
 
-##### Some repositores snippets 🧑‍💻⭐
+#### Some repositores snippets 🧑‍💻⭐
 
 > 👉 🅿🅷🅿 [`PHP Snippets/ Scripts`](https://github.com/JoseMateusCamargo/php#readme "Snippets")  
 > 👉 🅿🆈🆃🅷🅾🅽 [`Python Snippets`](https://github.com/JoseMateusCamargo/python#readme "Snippets")  
