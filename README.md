@@ -68,13 +68,13 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 </p>
 
 
+<p align="left">
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"        alt="josemateuscamargo"/>  
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"        alt="josemateuscamargo"/>
-  
-  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/> 
+<img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
+</p>
 
-
-<br /><br /><br /><br /><br /><br /><br />
+##### Some repositores snippets 🧑‍💻⭐
 
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
 
