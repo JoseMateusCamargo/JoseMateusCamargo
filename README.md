@@ -75,7 +75,11 @@ Bachelor of Computer Science, data scientist / full stack developer.
  </a>
 </p>
 
-
+<br />
+<br />
+<br /><br /><br />
+<br /><br />
+<br />
 
 
 
