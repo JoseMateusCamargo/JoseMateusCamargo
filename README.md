@@ -67,12 +67,12 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 <code><img height="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium"></code>&nbsp
 </p>
 
-<p align="left">
- <a href="https://github.com/JoseMateusCamargo">
+
+
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"        alt="josemateuscamargo"/>
+  
   <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/> 
- </a>
-</p>
+
 
 <br /><br /><br /><br /><br /><br /><br />
 
