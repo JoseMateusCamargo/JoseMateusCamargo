@@ -32,19 +32,28 @@
 <img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="45" alt="R">&nbsp
 </p>
 
-**Data Libraries and Tools:** 
+**Libraries** 
 <p align="left">
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pandas.svg" alt="pandas" title="Pandas"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/numpy.svg" alt="numpy" title="Numpy"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/scipy.svg" alt="SciPy" title="SciPy"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/tensorflow.svg" alt="tensorflow" title="TensorFlow"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/keras.svg" alt="keras" title="Keras"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/pytorch.svg" alt="pytorch" title="PyTorch"></code>&nbsp
+<code><img height="26" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" title="Matplotlib"></code>&nbsp
+<code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/plotly.svg" alt="Plotly" title="Plotly"></code>&nbsp
+<code><img height="26" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" title="Seaborn"></code>&nbsp
 <code><img height="26" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="openvc" title="OpenVC"></code>&nbsp
+<code><img height="26" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop"></code>&nbsp
+</p>
+
+**Databases** 
+<p align="left">
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mysql.svg" alt="mysql" title="MySQL"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/mariadb.svg" alt="mariadb" title="MariaDB"></code>&nbsp
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" title="SQL Server"></code>&nbsp
 <code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB"></code>&nbsp
-<code><img height="26" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop"></code>&nbsp
+</p>
 
 **Dev and Tools:** 
 <p align="left">
