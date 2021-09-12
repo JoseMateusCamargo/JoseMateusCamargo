@@ -68,15 +68,13 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 </p>
 
 
-<p align="left">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"        alt="josemateuscamargo"/>  
-
-<img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
-</p>
+<p>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"        alt="josemateuscamargo">
+ <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue">  
+</a>
 
 ##### Some repositores snippets 🧑‍💻⭐
 
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
 
 ##### Some repositores snippets 🧑‍💻⭐
 
@@ -84,5 +82,9 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 > 👉 🅿🆈🆃🅷🅾🅽 [`Python Snippets`](https://github.com/JoseMateusCamargo/python#readme "Snippets")  
 > 👉 🅹🆂 [`Useful JavaScript tips and tricks`](https://github.com/JoseMateusCamargo/javascript#readme "Snippets")  
 > 👉 🅲🆂🆂 [`CSS Animations tips and tricks`](https://github.com/JoseMateusCamargo/css-effects#readme "Snippets")  
+
+
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
+
 
 <!-- **JoseMateusCamargo/JoseMateusCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
