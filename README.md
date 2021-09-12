@@ -55,7 +55,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB"></code>&nbsp
 </p>
 
-**Dev and Tools:** 
+**Dev and Tools** 
 <p align="left">
 <code><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" alt="Javascript" title="Javascript"></code>&nbsp
 <code><img height="26" src="https://i.ibb.co/8KKFmZv/vue-logo.png" alt="VUE" title="Vue"></code>&nbsp
