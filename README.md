@@ -16,8 +16,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bachelor of Computer Science, data scientist / full stack developer. 
-<br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
+Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
 
 - 👩‍💻 I’m currently working as Full Stack Developer / Data Scientist, developing an application for Logistics.
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
@@ -75,32 +74,9 @@ Bachelor of Computer Science, data scientist / full stack developer.
  </a>
 </p>
 
-<br />
-<br />
-<br /><br /><br />
-<br /><br />
-<br />
+<br /><br /><br /><br /><br /><br /><br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left">
- <br />
- <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
-
- </p>
- 
-
-
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
 
 ##### Some repositores snippets 🧑‍💻⭐
 
