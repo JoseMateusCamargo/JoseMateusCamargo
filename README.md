@@ -27,8 +27,8 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 <h4 align="center">Specialist in languages :rocket:</h4>
 
 <p align="center">
-<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="45" alt="PHP">&nbsp
 <img src="https://i.ibb.co/6W6CP9R/python-logo.png" height="45" alt="Python">&nbsp
+<img src="https://i.ibb.co/X75fk3k/php-logo.png" height="45" alt="PHP">&nbsp
 <img src="https://i.ibb.co/0fKZ8bM/r-logo.png" height="45" alt="R">&nbsp
 </p>
 
