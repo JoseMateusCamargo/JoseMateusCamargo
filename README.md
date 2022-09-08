@@ -77,10 +77,10 @@ Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus 
 
 #### Some repositores snippets 🧑‍💻⭐
 
-> 👉 🅿🆈🆃🅷🅾🅽 [`Python`](https://github.com/JoseMateusCamargo/python#readme "Python")  
-> 👉 🅿🅷🅿 [`PHP`](https://github.com/JoseMateusCamargo/php#readme "PHP")  
-> 👉 🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃 [`JavaScript e JQuery`](https://github.com/JoseMateusCamargo/javascript#readme "Javascript")  
-> 👉 🅲🆂🆂 [`CSS3 Effects`](https://github.com/JoseMateusCamargo/css-effects#readme "CSS")  
-> 👉 🅳🅰🆃🅰🅱🅰🆂🅴 [`CSS3 Effects`](https://github.com/JoseMateusCamargo/database#readme "Database")  
-D
+> 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
+> 👉 [🅿🅷🅿](https://github.com/JoseMateusCamargo/php#readme "PHP")  
+> 👉 [🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃](https://github.com/JoseMateusCamargo/javascript#readme "Javascript")  
+> 👉 [🅲🆂🆂](https://github.com/JoseMateusCamargo/css-effects#readme "CSS")  
+> 👉 [🅳🅰🆃🅰🅱🅰🆂🅴](https://github.com/JoseMateusCamargo/database#readme "Database")  
+
 <!-- **JoseMateusCamargo/JoseMateusCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
