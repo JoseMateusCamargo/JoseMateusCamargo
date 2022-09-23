@@ -16,7 +16,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with developing specific algorithms using (linear algebra, statistics and probability), Machine Learning / Deep Learning, Robotic Process Automation (RPA). <br/>Passionate about technology and the desire to unite that technology to help humanity.
+BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with developing specific algorithms using (linear algebra, statistics and probability), Machine Learning / Deep Learning, Robotic Process Automation (RPA). Passionate about technology and the desire to unite that technology to help humanity.
 
 - 👩‍💻 I’m currently working with developing specific algorithms using (linear algebra, statistics and probability).
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
@@ -67,14 +67,6 @@ BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with 
 <code><img height="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium"></code>&nbsp
 </p>
 
-<br/>
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"       alt="josemateuscamargo"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
-
 #### Some repositores snippets 🧑‍💻⭐
 
 > 👉 [🅿🆈🆃🅷🅾🅽](https://github.com/JoseMateusCamargo/python#readme "Python")  
@@ -82,5 +74,13 @@ BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with 
 > 👉 [🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃](https://github.com/JoseMateusCamargo/javascript#readme "Javascript")  
 > 👉 [🅲🆂🆂](https://github.com/JoseMateusCamargo/css-effects#readme "CSS")  
 > 👉 [🅳🅰🆃🅰🅱🅰🆂🅴](https://github.com/JoseMateusCamargo/database#readme "Database")  
+
+<br/>
+
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemateuscamargo&show_icons=true&locale=en&layout=compact"       alt="josemateuscamargo"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josemateuscamargo&theme=vue"/>  
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josemateuscamargo&theme=vue"/>
 
 <!-- **JoseMateusCamargo/JoseMateusCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
