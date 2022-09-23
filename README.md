@@ -16,9 +16,9 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Bachelor of Computer Science, data scientist / full stack developer. <br/>Focus on exact sciences, mathematics, statistics,  machine learning / deep learning, Robotic Process Automation (RPA), passionate about technology and the desire to unite this technology to help humanity. 💻 <=> 🧬
+BS in Computer Science, Data Scientist, Full-Stack Developer. <br/>Working with developing specific algorithms using (linear algebra, statistics and probability), Machine Learning / Deep Learning, Robotic Process Automation (RPA). <br/>Passionate about technology and the desire to unite that technology to help humanity.
 
-- 👩‍💻 I’m currently working as Full Stack Developer / Data Scientist, developing an application for Logistics.
+- 👩‍💻 I’m currently working with developing specific algorithms using (linear algebra, statistics and probability).
 - 🧮 I’m also applying Machine Learning models and Deep Learning, <i>especially:</i>
     - Development of NLP Model.
     - Sentiment analysis.
